@@ -1,9 +1,13 @@
 # Inside Ukraine’s Kill Zone (Reuters Graphics)
 Link: https://www.reuters.com/graphics/UKRAINE-CRISIS/KILL-ZONE/znpnojmknvl/ 
 
-![Portada de la webstory](portada.png)
+![Portada de la webstory](portada4.png)
+
 ## Descripción de la historia 
 El reportaje de Reuters explica cómo la expansión masiva de drones (naves no tripuladas) que cada vez tienen un valor económico más bajo, han cambiado la forma de entender la guerra moderna y sus tácticas en el escenario de la guerra Rusia-Ucrania. 
+
+![Portada de la webstory](portada.png)
+
 ## Lo cautivador del relato
 La manera de contar la historia es dinámica y aunque no es tan interactiva (lo que de cierta forma veo positivo y rescataré ese punto más adelante), es envolvente y cautivadora. Me hace recordar a reportajes audiovisuales del canal History por la inmersión que provoca por medio de la mezcla de datos, lo interesante de la información y la demostración gráfica. Al no ser interactivo, permite disfrutar de una experiencia lineal, sin perder tiempo en explorar y adquiriendo nueva información de manera "entretenida" (lo pongo entre comillas por que no es, obviamente, entretenido la muerte de soldados ucranianos por medio de naves aéreas no tripuladas) y rápida. Algunas veces se intenta hacer tan libre la experiencia con gráficos que te llevan de un lugar a otro o hipervínculos que quitan el foco de lo importante, que aunque lo veo interesante para explorar por recreación como suele ser cuando entramos a Wikipedia, el poder estar frente a una web que me promete algo al principio (aprender sobre la zona de muerte en la guerra y su relación con los drones) y que lo cumple al final de manera satisfactoria y rápida es gratificante. 
 
