@@ -1,5 +1,6 @@
 # Inside Ukraine’s Kill Zone (Reuters Graphics)
 Link: https://www.reuters.com/graphics/UKRAINE-CRISIS/KILL-ZONE/znpnojmknvl/ 
+![Portada de la webstory](portada.png)
 ## Descripción de la historia 
 El reportaje de Reuters explica cómo la expansión masiva de drones (naves no tripuladas) que cada vez tienen un valor económico más bajo, han cambiado la forma de entender la guerra moderna y sus tácticas en el escenario de la guerra Rusia-Ucrania. 
 ## Lo cautivador del relato
